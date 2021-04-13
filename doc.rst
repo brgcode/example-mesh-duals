@@ -2,7 +2,7 @@
 Mesh Duals
 **********************************
 
-.. figure:: image.png
+.. figure:: mesh-duals.png
     :figclass: figure
     :class: figure-img img-fluid
 
